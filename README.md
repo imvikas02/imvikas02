@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imvikas02
-- 👀 I’m interested in Web developement and Android development
+- 👀 I’m a Web developer and Android developer
 - 🌱 I’m currently learning new framework like React js,Angular etc.
 
 
